@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(31, 47, 187);   
+}
+
+#red-text {
+    color: red;   
+}
+.blue-text {
+    color: blueviolet;
+    background-color: red;
+    width: 140px;
+    height: 60px;
+    font-size: 16px;
+    border: none;
+}
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+.seal{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: right;
+}
+.prim{
+    width: 800px;
+
+}
